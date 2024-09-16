@@ -3,12 +3,14 @@ html {
 .nav-main {
   color: white;
   background-color: black;
+  overflow: hidden;
 }
 .nav-main a {
   background-color: black;
   color: white;
   display: block;
   padding: 16px;
+  float: left;
 }
 .nav-main a:hover {
   background-color: blue;
