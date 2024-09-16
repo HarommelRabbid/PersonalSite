@@ -13,6 +13,7 @@ html {
   display: block;
   padding: 16px;
   float: left;
+  text-decoration: none;
 }
 .nav-main a:hover {
   background-color: blue;
