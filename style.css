@@ -1,0 +1,15 @@
+html {
+  font-family: "Century Gothic", sans-serif;
+.nav-main {
+  color: white;
+  background-color: black;
+}
+.nav-main a {
+  background-color: black;
+  color: white;
+  display: block;
+  padding: 16px;
+}
+.nav-main a:hover {
+  background-color: blue;
+}
